@@ -1,5 +1,5 @@
-# EX.NO: 05
-# DATE : 18.04.2022
+### EX.NO: 05
+### DATE : 18.04.2022
 
 # <p align="center">SIGMOID-ACTIVATION-FUNCTION</p>
 ## Aim:
@@ -20,7 +20,7 @@ The limitations of sigmoid function are :
    The output of the logistic function is not symmetric around zero. So the output of all the neurons will be of the same sign. This makes the training of the neural network more difficult and unstable.
 
 
-## Algorithm
+## <br/>Algorithm
 
 1. Import packages
 2. Define neural network class
@@ -94,5 +94,5 @@ if __name__=="__main__":
 
 
 
-## Result:
+## <br/>Result:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
